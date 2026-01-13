@@ -59,13 +59,13 @@ Sydney, NSW l Phone: 0404 930 412 l <d_shanke@yahoo.com>
 **Technical Skills**
 
 | **DevOps (AWS) & Automation** | **AWS services** (EC2 \|ASG \|ELB \|RDS \|Storage \[ EBS \|EFS \|S3\] \|EC\|SNS \|SES \|CloudFormation \|VPC \|Lambda \|API Gateway \|AWS CLI \| etc.) / Docker / Ansible / Jinja2 templating / Shell Scripting / Working knowledge of Python & Perl, Jenkins, Hashicorp’s Packer for baking AMIs |
-|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**                 | **C, C++, C++11**, **C++/CLI,** Visual C++, .NET (**C#, VB),** SQL, SQL Stored Procedures, HTML, XML, Maintenance/Enhancements of Ruby, Python, Shell Scripts and Java applications.                                                                                                              |
-| **Libraries / Frameworks**    | **STL**, Windows SDK, Windows API, MFC, .**NET**, SQLite, BSD Socket library, Winsock, open-source packages (ICU, boost, gsoap, tinyxml, openssl), BEA Tuxedo, google test, AWS Development Tools                                                                                                 |
-| **IDE and Tools**             | Visual Studio 2010/12/13, VC++, nMake, msbuild, gcc, gmake, gdb, Source Control (VSS, SVN, CVS, Perforce), doxygen, Coverity (static analysis tool), Valgrind (dynamic analysis tool – memory profiling), Bulls Eye code coverage, Eclipse, Netbeans, SlickEdit                                   |
-| **Concepts**                  | OOA/OOD (UML, Design Patterns, Refactoring), Multithreading/Multiprocessing, Socket Programming, Obfuscation, Encryption, Data Structures, Algorithms, Cloud Computing                                                                                                                            |
-| **Systems**                   | Windows 2003/2008 (R2)/2012/7/8, UNIX (Linux, Solaris SPARC)                                                                                                                                                                                                                                      |
-| **Databases**                 | **Oracle** 9/10/12, MS SQL 2000/2005/2008 (R2), MySQL, SQLite, Sybase                                                                                                                                                                                                                             |
+|----|----|
+| **Languages** | **C, C++, C++11**, **C++/CLI,** Visual C++, .NET (**C#, VB),** SQL, SQL Stored Procedures, HTML, XML, Maintenance/Enhancements of Ruby, Python, Shell Scripts and Java applications. |
+| **Libraries / Frameworks** | **STL**, Windows SDK, Windows API, MFC, .**NET**, SQLite, BSD Socket library, Winsock, open-source packages (ICU, boost, gsoap, tinyxml, openssl), BEA Tuxedo, google test, AWS Development Tools |
+| **IDE and Tools** | Visual Studio 2010/12/13, VC++, nMake, msbuild, gcc, gmake, gdb, Source Control (VSS, SVN, CVS, Perforce), doxygen, Coverity (static analysis tool), Valgrind (dynamic analysis tool – memory profiling), Bulls Eye code coverage, Eclipse, Netbeans, SlickEdit |
+| **Concepts** | OOA/OOD (UML, Design Patterns, Refactoring), Multithreading/Multiprocessing, Socket Programming, Obfuscation, Encryption, Data Structures, Algorithms, Cloud Computing |
+| **Systems** | Windows 2003/2008 (R2)/2012/7/8, UNIX (Linux, Solaris SPARC) |
+| **Databases** | **Oracle** 9/10/12, MS SQL 2000/2005/2008 (R2), MySQL, SQLite, Sybase |
 
 [**Awards**](http://au.linkedin.com/in/damodarshanke)
 
