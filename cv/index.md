@@ -6,14 +6,15 @@
 
 **AWS Cloud Engineer / Software Engineer**
 
-Sydney, NSW l Phone: 0404 930 412 l <d_shanke@yahoo.com>
+Sydney, NSW l Phone: 0404 930 412 l
+[<u>d_shanke@yahoo.com</u>](mailto:d_shanke@yahoo.com)
 
 - **AWS Cloud Managed DevOps** and **Automation**.
 
 - Experience in **developing/migrating applications from on premises
   onto AWS platform (EC2\|ASG\|ELB\|RDS\|Storage \[EBS\|EFS\|S3\]
   \|ECS\|SNS\|SES\|CloudFormation\|VPC\|Lambda\|API
-  Gateway\|Cloudwatch\|etc.)**
+  Gateway\|Cloudfront\|Bedrock\|Textract\|Sagemaker\|Cloudwatch\|etc.)**
 
 - Automation using **Jenkins**, **Ansible**, **Jinja2, UNIX Shell
   Scripting**, **AWS CLI, SAM CLI, CloudFormation, Python, Hashicorp
@@ -21,7 +22,7 @@ Sydney, NSW l Phone: 0404 930 412 l <d_shanke@yahoo.com>
 
 - Designed & Implemented Oracle Database 12.x on EC2 where the data
   files for the database is implemented on EBS volumes along with
-  feature of creating database snapshots and recovery from database
+  features of creating database snapshots and recovery from database
   snapshots.
 
 - Experienced in Software Analysis and Design, Requirements Gathering,
@@ -41,8 +42,8 @@ Sydney, NSW l Phone: 0404 930 412 l <d_shanke@yahoo.com>
 
 - Experience of handling a group of 5-6 resources acting as their
   technical lead in addition to taking responsibility of estimation,
-  task planning, and providing regular status updates to relevant stake
-  holders.
+  task planning, and providing regular status updates to relevant
+  stakeholders.
 
 - Results-oriented, intelligent, enthusiastic, self-starter and a
   committed software developer with proven ability to work creatively
@@ -69,7 +70,11 @@ Sydney, NSW l Phone: 0404 930 412 l <d_shanke@yahoo.com>
 
 [**Awards**](http://au.linkedin.com/in/damodarshanke)
 
-- Received Kudos rewards for simplifying the design of landing zone for
+- **Hackathon 2025 Award Winner** for building an AI coding agent that
+  converts Jira stories into deployed solutions with documented PRs,
+  reducing developer effort by **90%+**.
+
+- Received Kudos rewards for simplifying the design of landing zones for
   hosting internet facing applications.
 
 - Received multiple awards at NAB. This also includes an **MVP** (most
@@ -93,52 +98,63 @@ Sydney, NSW l Phone: 0404 930 412 l <d_shanke@yahoo.com>
   provide secure environments where application teams can host and
   deploy their application safely.
 
-- Built the Redshift service stack in ZAZ(Spain) and
-  [ZRH(Zurich)](https://aws.amazon.com/blogs/aws/a-new-aws-region-opens-in-switzerland/)
-  Region.
+- <span class="mark">Built the Redshift service stack in the ZAZ(Spain)
+  and
+  [<u>ZRH(Zurich)</u>](https://aws.amazon.com/blogs/aws/a-new-aws-region-opens-in-switzerland/)
+  Region.</span>
 
-- Designed and migrated work loads of on-premises application to AWS
-  with monitoring, backup and restore solution using AWS services and
-  ansible & shell scripts for automation/provisioning, which now allows
-  to stand multiple environments at will within matters of few minutes.
-  The solution also includes a home-grown Oracle Database on EC2
-  solution with ability to create snapshots & restore/recover from those
-  snapshots.
+- <span class="mark">Designed and migrated work loads of on-premises
+  application to AWS with monitoring, backup and restore solution using
+  AWS services and ansible & shell scripts for automation/provisioning,
+  which now allows to stand multiple environments at will within matters
+  of few minutes. The solution also includes a home-grown Oracle
+  Database on EC2 solution with ability to create snapshots &
+  restore/recover from those snapshots.</span>
 
-- Successfully **designed and implemented** the complex MITR Tax regime
-  rules mandated by ATO in Unison Unit Pricing application. Reduced the
-  initially estimated waterfall model estimates by 50% by adopting an
-  agile prototype driven approach which allowed early testing of
-  application.
+- <span class="mark">Successfully **designed and implemented** the
+  complex MITR Tax regime rules mandated by ATO in Unison Unit Pricing
+  application. Reduced the initially estimated waterfall model estimates
+  by 50% by adopting an agile prototype driven approach which allowed
+  early testing of application.</span>
 
-- Designed and implemented integration of Reputation technologies in
-  CSAPI (Content Scanning APIs) component which is the core scanning
-  component of Symantec Protection Engine, during a period of resource
-  crunch without affecting delivery timelines. While working on this new
-  module, I detected and fixed an underlying design issue in existing
-  core modules due to which files were being copied and scanned more
-  than once. This reduced the scan cycles by 30%.
+- <span class="mark">Designed and implemented integration of Reputation
+  technologies in CSAPI (Content Scanning APIs) component which is the
+  core scanning component of Symantec Protection Engine, during a period
+  of resource crunch without affecting delivery timelines. While working
+  on this new module, I detected and fixed an underlying design issue in
+  existing core modules due to which files were being copied and scanned
+  more than once. This reduced the scan cycles by 30%.</span>
 
-- Enhanced performance by 50% in the Enterprise Security Manager’s
-  Account information module by implementing local cached with TTL,
-  avoiding redundant LDAP calls.
+- <span class="mark">Enhanced performance by 50% in the Enterprise
+  Security Manager’s Account information module by implementing local
+  caches with TTL, avoiding redundant LDAP calls.</span>
 
-- Implemented password hash generation algorithm in Sybase 15.x only by
-  looking at the somewhat vague documentation provided by Sybase. The
-  algorithm was used for detecting weak passwords using dictionary-based
-  cracking.
+- <span class="mark">Implemented password hash generation algorithm in
+  Sybase 15.x only by looking at the somewhat vague documentation
+  provided by Sybase. The algorithm was used for detecting weak
+  passwords using dictionary-based cracking.</span>
 
-- Introduced, Conceptualized, and implemented an application module in
-  Enterprise Security Manager compliance product which implemented and
-  used the VMWare’s vSphere Web service, for the purpose of retrieving
-  compliance & security data which help with auditing the VMware
-  infrastructure.
+- <span class="mark">Introduced, Conceptualized, and implemented an
+  application module in Enterprise Security Manager compliance product
+  which implemented and used the VMWare’s vSphere Web service, for the
+  purpose of retrieving compliance & security data which help with
+  auditing the VMware infrastructure.</span>
 
 **Professional Experience**
 
-**[Insignia Financial](https://www.insigniafinancial.com.au/), Sydney**
+**<span class="smallcaps"><u>[INSIGNIA
+FINANCIAL](https://www.insigniafinancial.com.au/),</u> SYDNEY</span>**
 
 **Designation**: Principal Cloud Engineer II (Since July 2023)
+
+• Architected and delivered an enterprise AI services platform on AWS
+using Amazon Bedrock and Textract, providing secure, governed access to
+reusable AI capabilities for 20+ internal teams. Designed a unified API
+layer with centralized authentication, authorization, and AI guardrails,
+and implemented usage-based cost attribution using OpenTelemetry. Built
+a serverless, IaC-driven platform with AWS CDK and automated CI/CD,
+reducing AI onboarding time by ~75% and improving budget forecasting
+accuracy by ~85%.
 
 • Automated AWS Firewall Manager provisioning, setting up WAF in member
 accounts, centralized logging integration with Secureworks SIEM, and SCP
@@ -168,90 +184,102 @@ and recommendations.
 AWS Well-Architected Framework, fostering best practices in architecture
 design.
 
-**[Amazon](https://www.amazon.com.au/), Sydney**
+**<span class="smallcaps"><u>[AMAZON](https://www.amazon.com.au/),</u>
+SYDNEY</span>**
 
-**Designation**: System Development Engineer II (May 2021 – June 2023)
+**Designation**<span class="mark">: System Development Engineer II (May
+2021 – June 2023)</span>
 
-I was part of the global AWS Redshift Service Team. Redshift is the
-leading cloud data warehouse database for Business Intelligence and
-Analytics. Accustomed to dealing with thousands of transactions per
-second in datacenters distributed worldwide in systems designed for high
-scalability and fault tolerance.
+<span class="mark">I was part of the global AWS Redshift Service Team.
+Redshift is the leading cloud data warehouse database for Business
+Intelligence and Analytics. Accustomed to dealing with thousands of
+transactions per second in datacenters distributed worldwide in systems
+designed for high scalability and fault tolerance.</span>
 
-- The following tasks are performed as part of daily activities:  
+- <span class="mark">The following tasks are performed as part of daily
+  activities:  
   Building Redshift stacks for new Regions (Data Centers) and
   deployment, Continuous improvement of process via Automation thereby
-  Reducing time to market.
+  Reducing time to market.</span>
 
-- The System development stacks comprise of wide variety of languages
-  such as Java, Ruby (for infrastructure automation), Python and Shell
-  Scripting.
+- <span class="mark">The System development stacks consist of a wide
+  variety of languages such as Java, Ruby (for infrastructure
+  automation), Python and Shell Scripting.</span>
 
-- Develop solutions using AWS services like DynamoDB, RDS Postgres, EC2,
-  Lambda, SWF
+- <span class="mark">Develop solutions using AWS services like DynamoDB,
+  RDS Postgres, EC2, Lambda, SWF</span>
 
-- Involved in production support (SRE / Sev2 handling) to keep customer
-  clusters available according to SLA with minimum RTO, troubleshooting
-  recurrent problems to reduce operational workload and identifying,
-  proposing & developing solutions to fix common issues.
+- <span class="mark">Involved in production support (SRE / Sev2
+  handling) to keep customer clusters available according to SLA with
+  minimum RTO, troubleshooting recurrent problems to reduce operational
+  workload and identifying, proposing & developing solutions to fix
+  common issues.</span>
 
-  - Create and review designs for new features being released to the
-    customers using Continuous Integration – Continuous Development
-    pipelines.
+  - <span class="mark">Create and review designs for new features being
+    released to the customers using Continuous Integration – Continuous
+    Development pipelines.</span>
 
-  - Reviews code produced by team members to improve readability,
-    consistency, coverage, and best practices
+  - <span class="mark">Reviews code produced by team members to improve
+    readability, consistency, coverage, and best practices</span>
 
-[**Cevo**](https://cevo.com.au/), **Sydney**
+[**<span class="smallcaps"><u>CEVO</u></span>**](https://cevo.com.au/)<span class="mark">,</span>
+**<span class="smallcaps">SYDNEY</span>**
 
-**Designation**: AWS Consultant (Feb 2021 - May 2021)
+**Designation**<span class="mark">: AWS Consultant (Feb 2021 - May
+2021)</span>
 
-My role was to help implement solutions using AWS services for Cevo
-clients. I worked at AMP during this tenure.
+<span class="mark">My role was to help implement solutions using AWS
+services for Cevo clients. I worked at AMP during this tenure.</span>
 
-I was directly involved in helping AMP Business team insource back their
-Generation 1 Cloud infrastructure stack which was manually managed by an
-external vendor.
+<span class="mark">I was directly involved in helping AMP Business team
+insource back their Generation 1 Cloud infrastructure stack which was
+manually managed by an external vendor.</span>
 
-The insourcing included automated management and monitoring of AWS cloud
-resources and improving the permission model of the resources. In
-addition to that the handover documents were prepared with adequate
-processes put in place to manage the lifecycle of the insourced systems.
+<span class="mark">The insourcing included automated management and
+monitoring of AWS cloud resources and improving the permission model of
+the resources. In addition to that the handover documents were prepared
+with adequate processes put in place to manage the lifecycle of the
+insourced systems.</span>
 
-**[National Australia Bank](https://www.nab.com.au/), SydneY**
+**<span class="smallcaps">[<u>NATIONAL AUSTRALIA
+BANK</u>](https://www.nab.com.au/), SYDNEY</span>**
 
 **Designation:** Senior Analyst Engineer (**Since October 2014**)
 
-- Migrating multiple On-Premises Application from to AWS Platform.
+- <span class="mark">Migrating multiple On-Premises Application from to
+  AWS Platform.</span>
 
-- Designed and Contributed to Architecture of Prod and non-prod AWS
-  Environments.
+- <span class="mark">Designed and Contributed to Architecture of Prod
+  and non-prod AWS Environments.</span>
 
-- Also implemented solutions for hybrid environments where Prod workload
-  is hosted on premise Datacenter and non-prod workload is hosted on AWS
-  platform.
+- <span class="mark">Also implemented solutions for hybrid environments
+  where Prod workload is hosted on premise Datacenter and non-prod
+  workload is hosted on AWS platform.</span>
 
-- Implemented Ansible, CloudFormation & Jinja2 based Automation to
-  deploy infrastructure as code.
+- <span class="mark">Implemented Ansible, CloudFormation & Jinja2 based
+  Automation to deploy infrastructure as code.</span>
 
-- Implemented Automation of Deployment of new releases for long lived
-  environments (This was a necessity with Hybrid setups)
+- <span class="mark">Implemented Automation of Deployment of new
+  releases for long lived environments (This was a necessity with Hybrid
+  setups)</span>
 
-- Design, development, testing, documentation, maintenance & support of
-  Unison Application which is MLC Wealth’s primary Unit Pricing
-  Application.
+- <span class="mark">Design, development, testing, documentation,
+  maintenance & support of Unison Application which is MLC Wealth’s
+  primary Unit Pricing Application.</span>
 
-- Liaising closely with business stakeholders as well as providing
-  support to the live environment, including the quick resolution of
-  potential issues that interrupted critical business processes.
+- <span class="mark">Liaising closely with business stakeholders as well
+  as providing support to the live environment, including the quick
+  resolution of potential issues that interrupted critical business
+  processes.</span>
 
 - **Tools & Libraries:** C/C++ \| C# \| VB.NET \| STL \| Visual Studio
   2010 \| NetBeans \| Make \| xlc \| idebug \| AIX \| Linux \| Oracle \|
   TOAD \| SQL \| PL/SQL \| Shell scripting \| ControlM \| Remedy \| AWS
   \[EC2 / RDS\] \| Bea Tuxedo \| AWS EC2 \| AWS S3 \| AWS \*
 
-**WMS Gaming, Sydney** – *is a leading global innovator in the design,
-manufacture and distribution of electronic and digital gaming
+**<span class="smallcaps">WMS GAMING,</span> Sydney**
+<span class="smallcaps">–</span> *is a leading global innovator in the
+design, manufacture and distribution of electronic and digital gaming
 entertainment and gaming machines for the casino industry.*
 
 **Designation:** Senior Software Engineer (**Mar 2014 – October 2014**)
@@ -272,9 +300,10 @@ entertainment and gaming machines for the casino industry.*
 - **Tools & Libraries:** C/C++ \| Boost \| STL \| Python \| Perl \|
   Slick Edit \| NetBeans \| Make \| gcc \| gdb \| UNIX (CentOS) \| CVS
 
-**Symantec CORP, India** – *is a multibillion-dollar American computer
-security, backup and availability solutions Software Corporation
-headquartered in Mountain View, California, United States*
+**<span class="smallcaps">SYMANTEC CORP,</span> India**
+<span class="smallcaps">–</span> *is a multibillion-dollar American
+computer security, backup and availability solutions Software
+Corporation headquartered in Mountain View, California, United States*
 
 **Designation:** Software Engineer / Senior Software Engineer /
 Principal Software Engineer (**Nov 2006 to Jan 2014**)
@@ -283,14 +312,14 @@ Principal Software Engineer (**Nov 2006 to Jan 2014**)
   implemented in C++ on Windows and UNIX platforms
 
   - CSAPI component – Content Scanning API is a façade to various
-    scanning technologies and provides easy to use interface to the
+    scanning technologies and provides an easy to use interface to the
     consumers.
 
   - Control Compliance Suite (CCS) – CCS is an agentless security
     compliance enterprise product which works in a distributed
     environment.
 
-  - Enterprise Security Manager (ESM) – ESM is cross-platform
+  - Enterprise Security Manager (ESM) – ESM is a cross-platform
     agent-based security compliance enterprise product which works in a
     distributed environment.
 
@@ -306,23 +335,23 @@ Principal Software Engineer (**Nov 2006 to Jan 2014**)
 - Worked on optimization of scan algorithms (CSAPI) for high throughput
   by avoiding creation of multiple copies of files.
 
-- Fixed race conditions in multi-threaded environment within ESM Agent’s
-  job management module.
+- Fixed race conditions in a multi-threaded environment within ESM
+  Agent’s job management module.
 
 - Worked on compiler upgrades (C++) for product components as well as
   legacy/third party components.
 
-- Ported 32-bit C++ products to 64-bit environment.
+- Ported 32-bit C++ products to a 64-bit environment.
 
 - Migrated C++ application to support newer versions of MS SQL, Oracle,
   and Sybase
 
-- Developed new C++ client module from scratch on Linux platform using
+- Developed a new C++ client module from scratch on Linux platform using
   the WSDL files provided by VMware vSphere Web Service SDK to interact
   with the vSphere Web Service.
 
 - Worked on C# and developed C++/CLI module which allowed reuse of C++
-  native libraries (static and dynamic) in managed application on
+  native libraries (static and dynamic) in managed applications on
   Windows platform.
 
 - **Tools & Libraries:** C/C++ \| C# \| Python \| Perl \| MS SQL \|
@@ -330,7 +359,8 @@ Principal Software Engineer (**Nov 2006 to Jan 2014**)
   UNIX (Solaris / Linux) \| Windows OS \| Java \| Eclipse \| Perforce \|
   Valgrind \| Coverity
 
-**Tech Mahindra Limited, India** – *is a \$2.9 billion company with over
+**<span class="smallcaps">TECH MAHINDRA LIMITED, INDIA</span>**
+<span class="smallcaps">–</span> *is a \$2.9 billion company with over
 87,300+ professionals, its proven global delivery models, distinctive IT
 skills and decades of domain expertise help clients realize their
 business aspirations.*
@@ -344,10 +374,11 @@ business aspirations.*
 - Worked on context sensitive screen capture protection feature using
   Windows APIs and hooking techniques.
 
-**iGate (erstwhile PATNI), India** – *is a NASDAQ-listed,
-US-incorporated outsourcing company which provides information
-technology, consulting, and business process outsourcing (BPO)
-services.*
+**iGate <span class="smallcaps">(</span>erstwhile
+<span class="smallcaps">PATNI), INDIA</span>**
+<span class="smallcaps">–</span> *is a NASDAQ-listed, US-incorporated
+outsourcing company which provides information technology, consulting,
+and business process outsourcing (BPO) services.*
 
 **Designation:** Senior Software Engineer
 
@@ -399,13 +430,13 @@ control.
 
 > **Duration: Mar 2005 – Aug 2005**
 
-- Developed multithreaded client server application using C++ and
+- Developed a multithreaded client server application using C++ and
   winsock library and which catered to request based automated HDMI key
   provisioning mechanism to a Digital Multimedia embedded system.
 
 - Developed dialogues-based GUI tools using MFC and VC++ to manage the
   HDMI keys. It provided features like Delete, Restore, Import, and
-  Export and to show live statistics of key provisioning server.
+  Export and to show live statistics of key provisioning servers.
 
 <!-- -->
 
@@ -432,16 +463,17 @@ control.
 - Added thread safety to the multithreaded application which now took
   care of multiple data stack (images).
 
-**Phil Systems, Goa, India** – *a product-based startup which focused on
-photo id software.*
+**Phil Systems<span class="smallcaps">, GOA, INDIA</span>**
+<span class="smallcaps">–</span> *a product-based startup which focused
+on photo id software.*
 
 **Management Trainee (Programmer),** Mar 2004 to Aug 2004
 
 - **Smart Card Integration into EasyCard Product (Team Size: 1)**
 
   - Implemented C++ interface-oriented library into which various Smart
-    card library could be plugged in to cater to smart card readers from
-    variety of vendors.
+    card libraries could be plugged in to cater to smart card readers
+    from a variety of vendors.
 
 **Education**
 
